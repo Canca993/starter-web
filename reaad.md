@@ -19,3 +19,7 @@ This is a simple web project, deployent can be on any web server or even loal fi
 ###Copyright
 
 2014 Git.Training.
+
+####Copy
+
+bla bla text
