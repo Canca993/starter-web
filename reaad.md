@@ -28,3 +28,5 @@ Please fork, this repository and then issue Pull Requestes for review
 bla bla text
 
 #######Copy 2020
+
+All right resreved.
